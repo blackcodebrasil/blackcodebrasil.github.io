@@ -23,7 +23,7 @@ http://www.blackcodebrasil.com.br/
 BlackCodeBrasil é um projeto que ajuda/insetiva pessoas negras a ingressar na área de desenvolvimento de software, promovendo conteúdo, organizando grupos e criando celulas de estudos.
 
 ### Autores 
-<a href="">
+<a href="https://github.com/matosmelo">
 	<img style="border-radius: 50%;" src="" width="100px;" alt=""/>
  <br />
  	<sub>
@@ -32,7 +32,7 @@ BlackCodeBrasil é um projeto que ajuda/insetiva pessoas negras a ingressar na �
  </a> 
  <a href="https://github.com/matosmelo" title="Github"></a>
 
-<a href="">
+<a href="https://github.com/Tilzen">
 	<img style="border-radius: 50%;" src="" width="100px;" alt=""/>
  <br />
  	<sub>
